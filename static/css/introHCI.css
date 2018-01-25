@@ -44,3 +44,12 @@ body {
 .project a {
     text-align: center;
 }
+
+/*
+.project img{
+    visibility: hidden;
+}
+.project .active{
+    visibility: visible;
+}
+*/
